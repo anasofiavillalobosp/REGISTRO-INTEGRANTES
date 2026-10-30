@@ -101,7 +101,7 @@ La clase Main funciona como punto de entrada del programa y no contiene la lógi
 
 | Ítem | Detalle |
 | :---: | :--- |
-| **Lenguaje** | Java ( JDK 25) |
+| **Lenguaje** | Java (JDK 25) |
 | **Paradigma** | Programación Orientada a Objetos (POO) |
 | **Arquitectura** | Modelo-Vista-Controlador (MVC) |
 | **Interfaz** | Java Swing |

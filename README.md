@@ -1,7 +1,7 @@
 # REGISTRO-INTEGRANTES
 <div align="center">
 
-<img src="IMAGENES/Portada.jpg" width="80%" style="max-width: 800px;" alt="RegistroIntegrantes Header"/>
+<img src="IMAGENES/Portada.jpg" width="60%" style="max-width: 800px;" alt="RegistroIntegrantes Header"/>
 
 # Aplicación de Registro de Integrantes
 Formulario en Java Swing con arquitectura MVC

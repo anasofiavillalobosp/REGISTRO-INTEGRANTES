@@ -1,7 +1,7 @@
 # REGISTRO-INTEGRANTES
 <div align="center">
 
-<img src="Imagenes/Logisticajpg.jpg" width="80%" style="max-width: 800px;" alt="JALogistica Header"/>
+<img src="IMAGENES/Portada.jpg" width="80%" style="max-width: 800px;" alt="RegistroIntegrantes Header"/>
 
 # Aplicación de Registro de Integrantes
 Formulario en Java Swing con arquitectura MVC
@@ -253,15 +253,16 @@ Muestra la aplicación recién iniciada, con los campos vacíos.
 <div align="center">
 
 ### Figura 1. Formulario principal Vacio
-<img src="Diagramas UML - PAC MAN/Diagrama de Clases - PAC MAN.png" >
+<img src="IMAGENES/Portada_Vacia.jpg" >
 </div>
+
 
 Muestra el formulario con todos los campos diligenciados y un mensaje de confirmación del registro.
 
 <div align="center">
 
 ### Figura 2. Registro de un integrante
-<img src="Diagramas UML - PAC MAN/Diagrama de Clases - PAC MAN.png" >
+<img src="IMAGENES/Integrante_Registrado.jpg" >
 </div>
 
 Muestra la tabla con uno o varios integrantes registrados. Esta captura demuestra que la información se almacena y se consulta correctamente
@@ -269,7 +270,7 @@ Muestra la tabla con uno o varios integrantes registrados. Esta captura demuestr
 <div align="center">
 
 ### Figura 3. Consulta de integrantes
-<img src="Diagramas UML - PAC MAN/Diagrama de Clases - PAC MAN.png" >
+<img src="IMAGENES/Integrante_Consultado.jpg" >
 </div>
 
 Muestra un ejemplo de mensaje cuando intentas registrar información incompleta o una URL inválida de GitHub.
@@ -277,7 +278,7 @@ Muestra un ejemplo de mensaje cuando intentas registrar información incompleta 
 <div align="center">
 
 ### Figura 4. Validaciones 
-<img src="Diagramas UML - PAC MAN/Diagrama de Clases - PAC MAN.png" >
+<img src="IMAGENES/Validaciones.png" >
 </div>
 
 ---

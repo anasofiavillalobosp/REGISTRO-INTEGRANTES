@@ -13,7 +13,7 @@ Formulario en Java Swing con arquitectura MVC
 <div align="center">
   <img src="https://img.shields.io/badge/Plataforma-Java-orange?style=flat-square" alt="Java"/>
   <img src="https://img.shields.io/badge/Arquitectura-MVC-2196F3?style=flat-square" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Interfaz-Consola-4CAF50?style=flat-square" alt="GUI"/>
+  <img src="https://img.shields.io/badge/Interfaz-Consola-4CAF50?style=flat-square" alt="Java Swing"/>
 </div>
 
 ---
